@@ -1,0 +1,2 @@
+# A-basic-NLP-model-using-Naive-Bayes
+I have created my own simple dataset of (conservation of patient and doctor) where I created 2 columns namely class and sentences and I elevated sentence with their respective classes, I calculated the frequent and non-frequent words with the help of bar graph and after than I created wordcloud and in the last I trained and applies Naive Bayes classifier to predict the class of sentence.
