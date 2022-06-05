@@ -1,0 +1,204 @@
+Sentences,Class
+Take a pill and some rest.,Weakness
+I have headache and fever since last night.,Fever
+I am checking your body temperature.,Fever
+I can't get up I feel weakness.,Weakness
+Take a pill and have some rest.,Weakness
+I need glass of water.,BasicNeed
+Here it is.,BasicNeed
+I need some medicine for fever and headache.,Fever
+Here it is.,Fever
+I want some food.,BasicNeed
+Here it is.,BasicNeed
+I want to go washroom.,BasicNeed
+you may go.,BasicNeed
+Can you please open the fan.,Desire
+Yes of course.,Desire
+Can you please oepn the window.,Desire
+Ok.,Desire
+Can you please give me my phone.,Desire
+Here it is.,Desire
+I want to do some simple exercise.,Desire
+"Ok, you need some help.",Desire
+I want to meet my mother.,Desire
+"Ok, you can.",Desire
+My heart is beating so fast.,Weakness
+let me check.,Weakness
+I want listen a classical song to realx my mind.,Desire
+Ok you can.,Desire
+I want to go on round in park.,Desire
+"Ok, you may go.",Desire
+I want some tissue paper.,BasicNeed
+Here it is.,BasicNeed
+I want to meet my family member.,Desire
+Ok you can.,Desire
+I feel pian from backside due to rest.,Weakness
+you have walk around in room.,Weakness
+Please give me syrup for acidity.,Acidity
+Here it is.,Acidity
+I want to change my bedsheet.,BasicNeed
+Caretaker has changed on daily basis.,BasicNeed
+Please change my bed's location.,Desire
+Ok you can.,Desire
+I want to take tea or coffe.,Desire
+Ok you can.,Desire
+Please give apple juice.,Desire
+Here it is.,Desire
+Kindly give me my glasses.,BasicNeed
+Here it is.,BasicNeed
+I want to take bath.,BasicNeed
+you may go.,BasicNeed
+I want to know about my health status.,Desire
+You are fine don't worry.,Desire
+I am feeling like daziness.,Weakness
+"Ok don't worry, just relax.",Weakness
+I am feeling like vomitting.,Fever
+"Ok don't worry, just relax.",Fever
+I am feeling flu and sore in throat.,Fever
+Ok take a pill.,Fever
+I have take medicines beacause I am not feel well.,Fever
+Ok you can.,Fever
+I know these syptoms are of COVID-19.,Fever
+"No, don't worry these are mild symptoms.",Fever
+I want to brush my teeth.,Desire
+Ok you can.,Desire
+I want comb my hair.,Desire
+Ok you can.,Desire
+I want cut my nails.,BasicNeed
+Ok you can.,BasicNeed
+I want to wash my face.,Desire
+Ok you can.,Desire
+I want eat bananas.,Desire
+Here it is.,Desire
+I want to pray prayer.,Desire
+Ok you can.,Desire
+I want to hear news on television.,Desire
+Ok open the TV.,Desire
+I want to read newspaper.,Desire
+Here it is.,Desire
+"Please check me, I am facing issues in breathing.",Fever
+"don't worry, just try to be calm.",Fever
+Please give me my inhaler.,BasicNeed
+Here it is.,BasicNeed
+I want to shave my beard.,Desire
+Ok you can.,Desire
+I want to shave my beard.,Desire
+Ok you can.,Desire
+I want to check my eyesight from eye specialist.,Desire
+Ok you can.,Desire
+I want buy new frame for my glasses.,Desire
+Ok you can.,Desire
+I feeling like I have an anxiety.,Weakness
+"don't worry, just try to be calm.",Weakness
+When I am sick I feel lonely.,Desire
+"I happens sometimes, just relax.",Desire
+Kindly give me sleeping pills.,Weakness
+Here it is.,Weakness
+Kindly trun off lights.,Desire
+ok.,Desire
+I want to sleep.,BasicNeed
+ok.,Desire
+Hello! What can I do for you?,greetword
+Good Morning Doctor. I don’t feel good.,greetword
+Come and sit here.,Weakness
+Open your mouth.,Desire
+Since how long are you not feeling well?,Desire
+Since yesterday.,Desire
+No problem. Did you have motions yesterday?,Fever
+No Doctor. Not so freely.,Fever
+ Doctor I feel weak and do not feel like eating.,Weakness
+Ok. And what else?,Desire
+ I feel like vomiting.,Fever
+Do you drink a lot of water?,Desire
+"No Doctor, I don’t have water too much.",Desire
+Did you took any medicine?,Desire
+"Yes Doctor, I took a Crocin.",BasicNeed
+who asked you to take it?,Desire
+No one Doctor. I took it myself.,Desire
+why did you take it?,Desire
+Because I felt a headache.,Fever
+Nothing to be worried at.,Desire
+Do you need quick relief?,Desire
+No Doctor. It is enough you give me medicines for now.,Desire
+Good Morning doctor.,greetword
+Good morning! You seem pale and your voice sounds different.,Fever
+Yes doctor. I’m having a temperature and even a sore throat.,Fever
+Let me check.,Fever
+You have a moderate fever. Let me check your temperature.,Fever
+This thermometer is different from the last one you used.,Fever
+"Yes, this is introduced newly by medical supplies companies. ",Fever
+That’s really great.,Desire
+Yes it is.,Desire
+"Temperature is not too high, around 99.8. Let me check your blood pressure as well.",Fever
+Your blood pressure is fine.,Fever
+ It seems a bit scruffy. Not good.,Desire
+"Yes, it has been quite bad.",Desire
+Do you sweat and shiver?,Fever
+"Not sweating, but I feel slightly cold when I sit under a fan.",Desire
+Ok. You have few signs of malaria. ,Fever
+ I am writing three medicines and syrup. ,Fever
+Do you have any other questions?,Desire
+"No, doctor. Thank you.",greetword
+"So, what makes you come here?",Desire
+"Doctor, my father has been diagnosed with cancer..",Cancer
+What tests have you conducted?,Cancer
+On the recommendation of doctors ,Cancer
+"On the recommendation of doctors, we did blood tests, CT scan, and biopsy.",Cancer
+"Yes, this seems cancerous. ",Cancer
+OK. Thank you.,greetword
+The cancer is just one stage before it will expand to other parts. ,Cancer
+How many days of treatment will be needed?,Cancer
+We can perform the operation in a couple of days.,Cancer
+"Consequently, we will keep the patient under observation for 4-5 days.",Cancer
+Radiation therapy has become pretty regulated ,Cancer
+And for how long the patient will have to go through radiation therapy?,Cancer
+The patient has to take one dose every two weeks for three months. ,Cancer
+You require to visit the hospital only on days you obtain therapy.,Cancer
+"Once radiation therapy is done, you should discuss an oncologist every three months",Cancer
+OK. I’ve heard radiation therapy has side effects.,Cancer
+"Yes, radiation therapy has side effects. It can lead to hair loss, nausea, and loss of appetite.",Cancer
+"Thank you, doctor. We will get him admitted today.",Desire
+"Yes, tell me. What problems you have?",Desire
+I am suffering from stomachache and motions since last night.,stomachProblem
+I have also vomited a few times last night.,stomachProblem
+ What did you have yesterday?,BasicNeed
+ had some snacks on the roadside stalls. It could be because of it.,stomachProblem
+It is possible that you had contaminated food. ,stomachProblem
+"Because of diarrhea, you have lost plenty of body fluids.",stomachProblem
+You require to be hydrated. Drink enough water regularly,stomachProblem
+Mix some Glucon-D powder or Electoral in water and have it. ,stomachProblem
+"Avoid caffeine, dairy products, and solid foods at least till evening. And get plenty of rest.",stomachProblem
+"Any medicines, doctor",BasicNeed
+"Yes, I am prescribing a few to control diarrhea.",greetword
+"Thank you, doctor.",stomachProblem
+Good morning sir. How may I help you?,Desire
+Good morning. I had an appointment with the doctor at 9 AM.,Desire
+Have you registered with us earlier?,Desire
+Yes.,Desire
+ Please show me your registration card. ,BasicNeed
+That would be better. ,Desire
+" OK, I’ve found your details. You last visited us in August 2016.",Desire
+That’s right.,Desire
+You can pay the doctor consultation fee here.,Desire
+Sure. Here is my card.,Desire
+"Pl take a seat, and feel free to help yourself with water, newspapers etc.",Desire
+Thank you.,Desire
+ Good morning doctor.,greetword
+Good morning. How’re you doing today?,greetword
+I’m fine. Thank you. How about you?,eyecheckup
+I’m good. So what brings you here?,eyecheckup
+I’ve come for a regular checkup for a suspected case of glaucoma.,eyecheckup
+I see that your optic nerve is thicker than the normal.,eyecheckup
+I see that your optic nerve is thicker than the normal.,eyecheckup
+"Thank you, doctor.",eyecheckup
+I saw the doctor. He has asked for these two tests.,eyecheckup
+OK. The two tests will cost you xxx and you’ll get the reports in around two hours. Is that fine?,eyecheckup
+That’s fine.,eyecheckup
+ Please be seated there. Someone will call you for the first test in few minutes.,eyecheckup
+Thank you.,greetword
+I hope you had a smooth experience going through those tests.,eyecheckup
+"Yes, it was. And because I’ve taken these tests in the past too, I knew what was coming.",eyecheckup
+Your reports are absolutely fine.,eyecheckup
+OK.,greetword
+Thank you doctor. Thanks for your time.,eyecheckup
+You’re welcome.,greetword
